@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/kareemgurung/stats-preview-card-component-main)
+- Live Site URL: [Live site URL here](https://incomparable-dragon-b42ea4.netlify.app)
 
 ## My process
 
